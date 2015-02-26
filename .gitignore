@@ -1,5 +1,6 @@
 # Auto generated files
 *.pyc
+*/migrations/
 
 # static files
 static/
