@@ -1,0 +1,8 @@
+# Auto generated files
+*.pyc
+
+# static files
+static/
+
+# database
+*.sqlite3
