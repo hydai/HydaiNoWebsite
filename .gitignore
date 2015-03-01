@@ -3,7 +3,7 @@
 */migrations/
 
 # static files
-static/
+# static/
 
 # database
 *.sqlite3
